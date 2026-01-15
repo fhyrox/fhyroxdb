@@ -1,6 +1,3 @@
-**FhyroxDB**
-a very functionally jsondb package.
-
 **Usage**
 ```js
 const db = require('fhyroxdb').connect('main');
